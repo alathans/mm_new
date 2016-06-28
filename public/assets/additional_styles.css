@@ -17,7 +17,8 @@ height: 500px;
 }*/
 
 .soldier {
-background: url("/assets/soldier_with_girl_full_2.jpeg") no-repeat center center;
+/*background: url("/assets/soldier_with_girl_full_2.jpeg") no-repeat center center;*/
+background-image: url("/assets/soldier_with_girl_full_2.jpeg");
 background-size: cover;
 height: 500px;
 }
